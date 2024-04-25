@@ -25,7 +25,7 @@ class MainApp extends StatelessWidget {
                Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [Icon(Icons.person ),
-                Text('User: Mili',
+                Text('User: Mili, Kyara y Lara',
               style: TextStyle(fontSize: 24),),],
                ),
                Row(
